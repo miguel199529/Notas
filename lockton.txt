@@ -1,0 +1,56 @@
+LES COMPARTO LAS RUTAS DE SWAAGER DE LOS DIFERENTES ENTORNOS:
+
+Desarrollo: http://172.17.0.105:8081/WSBeFlex/swagger-ui.html
+
+Demo: http://www.demolockton.com.mx:8080/WSBeFlex/swagger-ui.html
+
+Prosucción: https://www.belockton.com:9090/WSBeFlex/swagger-ui.html
+
+WS Encriptado: http://172.17.0.105:9090/swagger/index.html
+
+vpns
+
+URL: https://ssl.redit.com/lockton
+
+URL2:https://ssl.redit.com/dana-na/auth/(lockton)url_default/welcome.cgi
+
+Password: 5tgbvfr4
+
+Usuario: lmbcp40
+
+Usuario: lmbcp41
+
+Usuario: lmsp1
+
+Usuario: lmsp2
+
+Usuario: lmbcp30
+
+Usuario: lmbcp31
+
+Usuario: lmbcp32
+
+Usuario: lmbcp33
+
+conecion a la vpn
+sudo openconnect --juniper -u userName https://ssl.redit.com/lockton --no-cert-check
+
+Escritorio Remoto: 
+
+IP: 172.17.0.105
+user: mx\consultorzoom
+pass: c0n_Lt0R.-##2018.$$
+
+
+Produccion bd
+"bd_SERVER": "172.20.18.145:1433;databaseName=Flexiforbesv2"
+  "bd_USER": "UserBeflex"
+  "upload_FOLDER": "E:\\beFlex3"
+  "bd_PASSWORD": "Pac#17.29eRy"
+  
+  
+  desarrollo bd
+server: 172.17.0.51:1433;databaseName=FlexiforbesV2_Beflex3
+pass: Pac#17.29eRx
+user: UserBeflex
+Lockton - http://172.17.0.105:8081/WSBeFlex/swagger-ui.html
