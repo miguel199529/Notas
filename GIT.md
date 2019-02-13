@@ -4,7 +4,7 @@
 
 * `git help`  ayuda
 
-* `git config` --global -e editar el archivo global de git
+* `git config--global -e`  editar el archivo global de git
 
 * `git config --global user. user "Miguel"`  estableser nombre de usuario global para git
 
