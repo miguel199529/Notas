@@ -81,3 +81,10 @@
 * `git revase` actualizar una rama con lo ultimo de master
 
 * `git remote -v` ver la conexion a git hub
+
+* `git remote add origin " ruta del repo " ` agregar un repo remoto al proyecto
+
+* `git pull origin master` bajar cambios de un repo remoto al cual ya esta vinculado el proyecto
+
+* `git push origin master` subir cambios al repo remoto
+
