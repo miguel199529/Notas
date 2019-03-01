@@ -86,6 +86,8 @@
 
 * `git remote add origin " ruta del repo " ` agregar un repo remoto al proyecto
 
+* `git fetch`  Renderizar repositorio local - repositorio remoto (es de buena practica antes de efectuar el pull origin)
+
 * `git pull origin master` bajar cambios de un repo remoto al cual ya esta vinculado el proyecto
 
 * `git push origin master` subir cambios al repo remoto
