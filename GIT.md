@@ -72,6 +72,8 @@
 
 * `git tag -d nombreTag` borrar tag
 
+* `git push --tags` Subir tags al repositorio hosteado (GitHub)
+
 * `git stash` guardar cambios sin usar commit y dejarlos archivos como en el ultimo commit
 
 * `git stash pop` recuperar los cambios en el stash
