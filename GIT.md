@@ -72,6 +72,8 @@
 
 * `git tag -d nombreTag` borrar tag
 
+* `git push --tags` Subir tags al repositorio hosteado (GitHub)
+
 * `git stash` guardar cambios sin usar commit y dejarlos archivos como en el ultimo commit
 
 * `git stash pop` recuperar los cambios en el stash
@@ -83,6 +85,8 @@
 * `git remote -v` ver la conexion a git hub
 
 * `git remote add origin " ruta del repo " ` agregar un repo remoto al proyecto
+
+* `git fetch`  Renderizar repositorio local - repositorio remoto (es de buena practica antes de efectuar el pull origin)
 
 * `git pull origin master` bajar cambios de un repo remoto al cual ya esta vinculado el proyecto
 
