@@ -60,6 +60,8 @@
 
 * `git branch nombrerama` crear una nueva rama
 
+* `git checkout master` Regresar al ultimo commit hecho
+
 * `git checkout nombre de la rama` cambiar de rama
 
 * `git merge nombre rama` unir rama con rama master
